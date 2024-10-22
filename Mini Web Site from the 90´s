@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<lang="en">
+<center>
+<style>
+ head {color:white}
+ body {color:white}
+</style>
+<head>
+    <title> {THE WILD WEST THROUGH RED DEAD REDEMPTION 2}</title>
+   <!-- Esta página será un intento de exponer lo que fue el salvaje oeste a partir del videojuego Red Dead Redemption 2 -->
+    <h1 id="2">{ THE WILD WEST THROUGH RED DEAD REDEMPTION 2 }</h1>
+ 
+    <hr><hr>
+    <br></br>
+
+ </head>
+ <body style="background-color:brown">
+ 
+    <image src="horseman.jpeg" width="440" height="251" border="2"></image>
+    <image src="blackfoot.jpeg" width="440" height="251" border="2"></image>
+    <br></br>
+    <em><strong>
+    <a><iframe src="https://giphy.com/embed/QBRyW84AWxZBpqhf51" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pc-red-dead-redemption-2-QBRyW84AWxZBpqhf51" style="color:white">"New Austin Desert"</a></p>
+    </em></strong>
+ 
+   
+    <h2>· REAL LIFE REFERENCES AND INSPIRATION·</h2>
+    <p>"about Red Dead Redemption 2 content in the real world"</p>
+    <em>
+    <h3>-from the different states:</h3>
+    </em>
+    <table border="2">
+       <tr>
+        <th>NEVADA</th>
+        <th>ARIZONA</th>
+        <th>KANSAS</th>
+        <th>LOUISIANNA</th>
+        </td>
+       </tr>
+       <tr>
+        <td align="center" rowspan="2">NORTH (AMBARINO REGION)</td>
+        <td align="center" rowspan="2">WEST (DESERT REGION)</td>
+        <td align="center" rowspan="2">EAST (NEW AUSTIN REGION)</td>
+        <td align="center" rowspan="2">SOUTH (SAINT DENIS REGION)</td>
+       </tr>
+    </table>
+
+    <br></br>
+   
+    <em>
+    <h3>..and the key events on real life:
+    </em>
+    <ul>
+    <lis>{Pioneers migration}</lis>
+    <lis>{Conquest and indian segregation}</lis>
+    <lis>{The outlaws and their legends}</lis>
+    <br></br>
+    <strong>   
+    <ol>
+   <list>1803·</list>
+   <list>1849·</list>
+   <list>1869·</list>
+   <list>1886·</list>
+   <list>1899</list>
+   </strong>
+   </ol>
+   <br></br>
+ <em>
+ <a HREF=https://www.timetoast.com/timelines/the-wild-west--4 style="color:white">HISTORICAL TIMELINE</a>
+ </em>
+ <br></br>
+ <audio controls autoplay>
+ <source src="audio/08MountainHymn.mp3" type="audio/MP3">
+ </audio>
+ <br>
+ </br>
+ <hr></hr>
+ <iframe ; fullscreen; picture-in-picture; clipboard-read; clipboard-write; autoplay="1" src="https://www.rockstargames.com/videoplayer/?id=3a72o295&locale=en_us&resolution=360p&embed autoplay=1" style="aspect-ratio: 16 / 9; width: 100%; border: none;" title="Rockstar Games Video: Red Dead Redemption 2: Official Trailer #2"></iframe>
+ <hr></hr>
+ <b>
+   <a href="#2" style="color:white">Volver arriba</a>
+</b>
+</body>
+</center>
+
+
